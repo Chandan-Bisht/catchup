@@ -49,7 +49,7 @@ const Login = () => {
                 or
               </p>
             </div>
-            <Link to="/home" className="block p-2 text-center bg-white w-full text-[#fd7401] lg:text-sm xl:text-base lg:p-2 xl:p-3 border border-solid border-[#fd7401] rounded-md">
+            <Link to="/" className="block p-2 text-center bg-white w-full text-[#fd7401] lg:text-sm xl:text-base lg:p-2 xl:p-3 border border-solid border-[#fd7401] rounded-md">
               Sign up Now
             </Link>
           </form>

@@ -8,6 +8,7 @@ export default {
       transparent: "transparent",
       current: "currentColor",
       black: colors.black,
+      red: colors.red,
       white: colors.white,
       gray: colors.gray,
       slate: colors.slate,
